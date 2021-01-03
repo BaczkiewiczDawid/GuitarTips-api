@@ -1,0 +1,24 @@
+{
+    "articles": [
+        {
+            "title": "What is Pentatonic scale and how to use it?",
+            "short": "Lorem ipsum dolor sit amet",
+            "description": "Lorem lorem ipsum ipsum dolor dolor sit sit amet amet"
+        },
+        {
+            "title": "What is A scale and how to use it?",
+            "short": "Lorem ipsum dolor sit amet",
+            "description": "Lorem lorem ipsum ipsum dolor dolor sit sit amet amet"
+        },
+        {
+            "title": "What is B scale and how to use it?",
+            "short": "Lorem ipsum dolor sit amet",
+            "description": "Lorem lorem ipsum ipsum dolor dolor sit sit amet amet"
+        },
+        {
+            "title": "What is C scale and how to use it?",
+            "short": "Lorem ipsum dolor sit amet",
+            "description": "Lorem lorem ipsum ipsum dolor dolor sit sit amet amet"
+        }
+    ]
+}

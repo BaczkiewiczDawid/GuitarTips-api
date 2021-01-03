@@ -3,22 +3,30 @@
         {
             "title": "What is Pentatonic scale and how to use it?",
             "short": "Lorem ipsum dolor sit amet",
-            "description": "Lorem lorem ipsum ipsum dolor dolor sit sit amet amet"
+            "description": "Lorem lorem ipsum ipsum dolor dolor sit sit amet amet",
+            "author": "Dawid Bączkiewicz",
+            "time": "6min"
         },
         {
             "title": "What is A scale and how to use it?",
             "short": "Lorem ipsum dolor sit amet",
-            "description": "Lorem lorem ipsum ipsum dolor dolor sit sit amet amet"
+            "description": "Lorem lorem ipsum ipsum dolor dolor sit sit amet amet",
+            "author": "Karol Nowak",
+            "time": "4min"
         },
         {
             "title": "What is B scale and how to use it?",
             "short": "Lorem ipsum dolor sit amet",
-            "description": "Lorem lorem ipsum ipsum dolor dolor sit sit amet amet"
+            "description": "Lorem lorem ipsum ipsum dolor dolor sit sit amet amet",
+            "author": "Jagoda Wiśniewska",
+            "time": "8min"
         },
         {
             "title": "What is C scale and how to use it?",
             "short": "Lorem ipsum dolor sit amet",
-            "description": "Lorem lorem ipsum ipsum dolor dolor sit sit amet amet"
+            "description": "Lorem lorem ipsum ipsum dolor dolor sit sit amet amet",
+            "author": "Dawid Bączkiewicz",
+            "time": "2min"
         }
     ]
 }

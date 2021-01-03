@@ -19,6 +19,7 @@
   "homepage": "https://github.com/BaczkiewiczDawid/GuitarTips-api#readme",
   "dependencies": {
     "brew": "0.0.8",
+    "heroku": "^7.47.6",
     "json-server": "^0.16.3"
   }
 }
